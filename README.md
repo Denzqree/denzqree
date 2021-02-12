@@ -7,11 +7,11 @@
 
 - 👯 I’m looking to collaborate on **any project that is worth the time spent.**
 
-- 👨‍💻 All of my projects are available at [http://www.denzqree.com](http://www.denzqree.com)
+- 👨‍💻 All of my projects are available here or at [http://www.denzqree.com](http://www.denzqree.com)
 
-- 📫 How to reach me **recruitment@denzqree.com**
+- 📫 Reach me at **recruitment@denzqree.com**
 
-- 📄 Know about my experiences [http://www.denzqree.com/cv.pdf](http://www.denzqree.com/cv.pdf)
+- 📄 Know about my experiences checking my Curriculum : [http://www.denzqree.com/cv.pdf](http://www.denzqree.com/cv.pdf)
 
 - ⚡ Fun fact **I think I discovered a Gold NUGGET ...**
 
