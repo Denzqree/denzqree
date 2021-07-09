@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences checking my Curriculum : [http://www.denzqree.com/cv.pdf](http://www.denzqree.com/cv.pdf)
 
-- ⚡ Fun fact **I think I discovered a Gold NUGGET ...**
+- ⚡ Fun fact **the cake is a lie ! ...**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
