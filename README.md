@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/denzqree" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="denzqree" height="30" width="40" /></a>
+<a href="https://twitter.com/n3oftw" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="denzqree" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/vdanielmadeira" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="vdanielmadeira" height="30" width="40" /></a>
 <a href="https://instagram.com/_n3o._" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="denzqree" height="30" width="40" /></a>
 </p>
